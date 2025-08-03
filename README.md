@@ -20,4 +20,5 @@ This data includes stock quotes, fundamentals, actions, and information. In addi
 
 Suggestions and improvements are welcome
 With Love and Coffee
-Faiza Tanveer
+Shiva
+
